@@ -6,7 +6,7 @@ body{
     background-color: rgb(181, 179, 179);
 }
 
-div{
+.tea-menu{
     width: 80%;
     background-color: purple;
     color: violet;
