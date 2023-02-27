@@ -1,13 +1,17 @@
 h1, h2, p{
     text-align: center;
+    
 } 
 
 body{
     /* background-color: rgb(181, 179, 179); */
     background-image: url(https://images.pexels.com/photos/143640/pexels-photo-143640.jpeg?auto=compress&cs=tinysrgb&w=1600);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .tea-menu{
+    opacity: 0.6;
     width: 80%;
     background-color: purple;
     color: violet;
