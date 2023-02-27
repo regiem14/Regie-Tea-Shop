@@ -1,11 +1,13 @@
-        /* h1, h2, p{
-            text-align: center;
-        } */
+h1, h2, p{
+    text-align: center;
+} 
 
-        .text__align--center{
-            text-align: center;
-        }
+body{
+    background-color: rgb(181, 179, 179);
+}
 
-        body{
-            background-color: rgb(181, 179, 179);
-        }
+div{
+    width: 300PX;
+    background-color: purple;
+    color: violet;
+}
