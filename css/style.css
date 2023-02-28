@@ -20,13 +20,17 @@ body{
 }
 
 .tea-items p{
-    background-color: green;
+    /* background-color: green; */
     display: inline-block;
 }
 .tea-flavor{
+    width: 50%;
+    background-color: green;
     text-align: left;
 }
 
 .tea-price{
+    width: 50%;
+    background-color: yellow;
     text-align: right;
 }
