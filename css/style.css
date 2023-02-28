@@ -7,9 +7,11 @@ body{
 }
 
 h1, h2, p{
+    color: violet;
     text-align: center;
     
 } 
+
 
 h1{
     font-size: 40px;
@@ -23,8 +25,7 @@ h2{
     opacity: 0.9;
     width: 80%;
     max-width: 500px;
-    background-color: gray;
-    color: violet;
+    background: gray;
     margin-left: auto;
     margin-right: auto;
     /* padding-left: 20px;
