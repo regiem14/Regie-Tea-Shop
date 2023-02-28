@@ -13,12 +13,20 @@ body{
 .tea-menu{
     opacity: 0.9;
     width: 80%;
-    background-color: purple;
+    background-color: gray;
     color: violet;
     margin-left: auto;
     margin-right: auto;
 }
 
+.tea-items{
+    background-color: green;
+    display: inline-block;
+}
 .tea-flavor{
     text-align: left;
+}
+
+.tea-price{
+    text-align: right;
 }
