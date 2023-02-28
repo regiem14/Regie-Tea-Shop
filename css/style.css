@@ -31,6 +31,14 @@ h2{
 -moz-box-shadow: 10px 10px 5px 0px rgba(97,52,133,0.75);
 }
 
+.top-line{
+    margin-top: 25px;
+}
+
+.bottom-line{
+    margin-top: 25px;
+}
+
 .tea-menu{
     opacity: 0.9;
     width: 80%;
@@ -70,4 +78,8 @@ h2{
 .footer-p{
     background-color: black;
     color: white;
+}
+
+footer{
+    font-size: 14px;
 }
