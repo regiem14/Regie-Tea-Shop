@@ -19,7 +19,7 @@ body{
     margin-right: auto;
 }
 
-.tea-items{
+.tea-items p{
     background-color: green;
     display: inline-block;
 }
