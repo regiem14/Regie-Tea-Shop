@@ -26,9 +26,14 @@ body{
     padding: 20px;
 }
 
+.esbtalished{
+    font-style: italic ;
+}
+
 .tea-items p{
     /* background-color: green; */
     display: inline-block;
+    font-weight: 800;
 }
 .tea-flavor, .collections-flavor{
     width: 80%;
