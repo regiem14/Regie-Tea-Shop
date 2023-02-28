@@ -24,13 +24,13 @@ body{
     display: inline-block;
 }
 .tea-flavor{
-    width: 50%;
+    width: 80%;
     background-color: green;
     text-align: left;
 }
 
 .tea-price{
-    width: 50%;
+    width: 20%;
     background-color: yellow;
-    text-align: right;
+    text-align: center;
 }
