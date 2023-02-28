@@ -21,6 +21,11 @@ h2{
     font-size: 35px;
 }
 
+hr{
+    height: 2px;
+    background-color: rgb(186, 191, 196);
+}
+
 .tea-menu{
     opacity: 0.9;
     width: 80%;
