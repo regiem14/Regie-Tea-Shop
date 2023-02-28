@@ -24,6 +24,7 @@ h2{
 hr{
     height: 2px;
     background-color: rgb(186, 191, 196);
+    border-color: rgb(145, 49, 145);
 }
 
 .tea-menu{
