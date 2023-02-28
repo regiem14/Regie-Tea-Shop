@@ -53,6 +53,7 @@ h2{
     /* background-color: green; */
     display: inline-block;
     font-weight: 800;
+    margin: 5px 0px;
 }
 .tea-flavor, .collections-flavor{
     width: 80%;
