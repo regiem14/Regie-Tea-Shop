@@ -16,6 +16,7 @@ h1, h2, p{
 
 h1{
     font-size: 40px;
+    margin: 0;
 }
 
 h2{
@@ -56,6 +57,20 @@ h2{
 
 .esbtalished{
     font-style: italic ;
+}
+
+img{
+    /* display: block; */
+    height: 50px;
+    width: 50px;
+    /* margin: auto; */
+    margin: auto 20px;
+}
+
+.tea-icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .tea-items p{
