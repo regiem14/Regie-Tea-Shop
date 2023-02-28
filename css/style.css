@@ -8,7 +8,7 @@ body{
     background-image: url(https://images.pexels.com/photos/143640/pexels-photo-143640.jpeg?auto=compress&cs=tinysrgb&w=1600);
     background-size: cover;
     background-repeat: no-repeat;
-    font-family: ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .tea-menu{
@@ -24,13 +24,13 @@ body{
     /* background-color: green; */
     display: inline-block;
 }
-.tea-flavor{
+.tea-flavor, .collections-flavor{
     width: 80%;
     background-color: green;
     text-align: left;
 }
 
-.tea-price{
+.tea-price, .collections-price{
     width: 20%;
     background-color: yellow;
     text-align: center;
