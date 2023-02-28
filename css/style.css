@@ -76,10 +76,26 @@ h2{
 }
 
 .footer-p{
-    background-color: black;
-    color: white;
+    /* background-color: black; */
+    color: black;
 }
 
 footer{
     font-size: 14px;
+}
+
+a:link{
+    color: black;
+}
+
+a:visited{
+    color: white;
+}
+
+a:hover{
+    color: lightgray;
+}
+
+a:active{
+    color: yellow;
 }
